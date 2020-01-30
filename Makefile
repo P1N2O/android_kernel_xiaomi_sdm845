@@ -738,7 +738,7 @@ else
 KBUILD_CFLAGS   += -O3
 endif
 endif
-
+1
 KBUILD_CFLAGS += $(call cc-ifversion, -lt, 0409, \
 			$(call cc-disable-warning,maybe-uninitialized,))
 
