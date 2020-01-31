@@ -118,5 +118,6 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+arch/arm64/configs/beryllium_defconfig
 compile.sh
 out
