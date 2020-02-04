@@ -3,8 +3,8 @@
         "F1 (beryllium)": {
             "0.3": {
                 "info": {
-                    "date": "2020-02-02",
-                    "changelog": "Delta Kernel"
+                    "date": "2020-02-05",
+                    "changelog": "* Merged Latest CAF Tag LA.UM.8.3.r1-03200-sdm845.0"
                 },
                 "10": {
                     "9.1.24": {
@@ -12,15 +12,15 @@
                         "64Hz": {},
                         "68Hz": {}
                     },
-                    "10.1.24": {
+                    "10.3.7": {
                         "60Hz": {}
                     }
                 }
             },
             "0.2": {
                 "info": {
-                    "date": "2020-02-02",
-                    "changelog": "Delta Kernel"
+                    "date": "2020-02-01",
+                    "changelog": "- Merged latest Linux Stable 4.9.212\n- Added KCAL & K-Lapse v5.0\n"
                 },
                 "10": {
                     "10.3.7": {
@@ -30,8 +30,8 @@
             },
             "0.1": {
                 "info": {
-                    "date": "2020-02-02",
-                    "changelog": "Delta Kernel"
+                    "date": "2019-01-31",
+                    "changelog": "- Upstream to latest Linux v4.9.211\n- GPU UC to 180MHz & OC to 820MHz\n- Rewrote GPU Freq. Table\n- Available GPU Freq.: [180], 257, 350, 425, 520, 600, 675, 710, [820]\n- Use 10.3.7 touch drivers for NVT\n- Added fsync on/off support\n- Camera fix (for Q-Blobs)\n- Added FKM Download Support\n- Enabled NAP power saving state for Adreno 630 GPU\n- Added support for DTS Ultra:X\n- Added westwood TCP Cong. Alg.\n- Added Wireguard support"
                 },
                 "10": {
                     "10.3.7": {
@@ -42,8 +42,12 @@
         },
         "X2 (phoenixin)": {
             "1.0": {
+                "info": {
+                    "date": "2020-02-04",
+                    "changelog": "- Initial build"
+                },
                 "10": {
-                    "11.0.6": {
+                    "11.0.3": {
                         "120Hz": {},
                         "144Hz": {}
                     }
