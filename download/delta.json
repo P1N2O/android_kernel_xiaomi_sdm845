@@ -4,7 +4,7 @@
             "0.3": {
                 "info": {
                     "date": "2020-02-05",
-                    "changelog": "* Merged Latest CAF Tag LA.UM.8.3.r1-03200-sdm845.0"
+                    "changelog": "- Added Specrtum support (Battery, Banalced, Performance & Gaming)\n\n  NOTE: This still is a beta release - the kernel needs more imprvements.\n  Your feedbacks are highly appreciated!"
                 },
                 "10": {
                     "9.1.24": {
@@ -31,7 +31,7 @@
             "0.1": {
                 "info": {
                     "date": "2019-01-31",
-                    "changelog": "- Upstream to latest Linux v4.9.211\n- GPU UC to 180MHz & OC to 820MHz\n- Rewrote GPU Freq. Table\n- Available GPU Freq.: [180], 257, 350, 425, 520, 600, 675, 710, [820]\n- Use 10.3.7 touch drivers for NVT\n- Added fsync on/off support\n- Camera fix (for Q-Blobs)\n- Added FKM Download Support\n- Enabled NAP power saving state for Adreno 630 GPU\n- Added support for DTS Ultra:X\n- Added westwood TCP Cong. Alg.\n- Added Wireguard support"
+                    "changelog": "- Upstream to latest Linux v4.9.211\n- GPU UC to 180MHz & OC to 820MHz\n- Rewrote GPU Freq. Table. Available Freq.:\n[180], 257, 350, 425, 520, 600, 675, 710, [820]\n- Use 10.3.7 touch drivers for NVT\n- Added fsync on/off support\n- Camera fix (for Q-Blobs)\n- Added FKM Download Support\n- Enabled NAP power saving state for Adreno 630 GPU\n- Added support for DTS Ultra:X\n- Added westwood TCP Cong. Alg.\n- Added Wireguard support"
                 },
                 "10": {
                     "10.3.7": {
