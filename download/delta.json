@@ -1,13 +1,64 @@
 {
-    "kernel": {
-        "name": "Delta Kernel (beryllium)",
-    "version": "v0.1",
-    "link": "https://delta.manuelpinto.in/download/v0.1/Delta-Kernel-v0.1-2020-01-30-beryllium.zip",
-        "changelog_url": "https://raw.githubusercontent.com/P1N2O/android_kernel_xiaomi_sdm845/10/download/changelog.txt",
-    "date": "2020-01-30",
-    "sha1": "64852804d31186da10655f9b1b384e37cad3b517"
+    "Poco": {
+        "F1 (beryllium)": {
+            "0.3": {
+                "info": {
+                    "date": "2020-02-02",
+                    "changelog": "Delta Kernel"
+                },
+                "10": {
+                    "9.1.24": {
+                        "60Hz": {},
+                        "64Hz": {},
+                        "68Hz": {}
+                    },
+                    "10.1.24": {
+                        "60Hz": {}
+                    }
+                }
+            },
+            "0.2": {
+                "info": {
+                    "date": "2020-02-02",
+                    "changelog": "Delta Kernel"
+                },
+                "10": {
+                    "10.3.7": {
+                        "60Hz": {}
+                    }
+                }
+            },
+            "0.1": {
+                "info": {
+                    "date": "2020-02-02",
+                    "changelog": "Delta Kernel"
+                },
+                "10": {
+                    "10.3.7": {
+                        "60Hz": {}
+                    }
+                }
+            }
+        },
+        "X2 (phoenixin)": {
+            "1.0": {
+                "10": {
+                    "11.0.6": {
+                        "120Hz": {},
+                        "144Hz": {}
+                    }
+                }
+            }
+        }
     },
-    "support": {
-        "link": "https://t.me/DeltaKernelChat"
+    "info": {
+        "name": "Delta Kernel",
+        "tagline": "Custom android kernel by P1N2O",
+        "author": "Manuel Pinto",
+        "author_aka": "P1N2O",
+        "source": "https://github.com/P1N2O/android_kernel_xiaomi_sdm845",
+        "support": "https://t.me/DeltaKernelChat",
+        "donate": "https://paypal.me/pinto165",
+        "slug": "delta"
     }
 }
