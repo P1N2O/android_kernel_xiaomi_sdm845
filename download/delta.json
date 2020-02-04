@@ -1,22 +1,6 @@
 {
     "Poco": {
         "F1 (beryllium)": {
-            "0.3": {
-                "info": {
-                    "date": "2020-02-05",
-                    "changelog": "- Added Specrtum support (Battery, Banalced, Performance & Gaming)\n\n  NOTE: This still is a beta release - the kernel needs more imprvements.\n  Your feedbacks are highly appreciated!"
-                },
-                "10": {
-                    "9.1.24": {
-                        "60Hz": {},
-                        "64Hz": {},
-                        "68Hz": {}
-                    },
-                    "10.3.7": {
-                        "60Hz": {}
-                    }
-                }
-            },
             "0.2": {
                 "info": {
                     "date": "2020-02-01",
@@ -41,7 +25,7 @@
             }
         },
         "X2 (phoenixin)": {
-            "1.0": {
+            "0.1": {
                 "info": {
                     "date": "2020-02-04",
                     "changelog": "- Initial build"
