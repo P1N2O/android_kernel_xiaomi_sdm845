@@ -1,52 +1,13 @@
-{
-    "Poco": {
-        "F1 (beryllium)": {
-            "0.2": {
-                "info": {
-                    "date": "2020-02-01",
-                    "changelog": "- Merged latest Linux Stable 4.9.212\n- Added KCAL & K-Lapse v5.0\n"
-                },
-                "10": {
-                    "10.3.7": {
-                        "60Hz": {}
-                    }
-                }
-            },
-            "0.1": {
-                "info": {
-                    "date": "2019-01-31",
-                    "changelog": "- Upstream to latest Linux v4.9.211\n- GPU UC to 180MHz & OC to 820MHz\n- Rewrote GPU Freq. Table. Available Freq.:\n[180], 257, 350, 425, 520, 600, 675, 710, [820]\n- Use 10.3.7 touch drivers for NVT\n- Added fsync on/off support\n- Camera fix (for Q-Blobs)\n- Added FKM Download Support\n- Enabled NAP power saving state for Adreno 630 GPU\n- Added support for DTS Ultra:X\n- Added westwood TCP Cong. Alg.\n- Added Wireguard support"
-                },
-                "10": {
-                    "10.3.7": {
-                        "60Hz": {}
-                    }
-                }
-            }
-        },
-        "X2 (phoenixin)": {
-            "0.1": {
-                "info": {
-                    "date": "2020-02-04",
-                    "changelog": "- Initial build"
-                },
-                "10": {
-                    "11.0.3": {
-                        "120Hz": {},
-                        "144Hz": {}
-                    }
-                }
-            }
-        }
-    },
-    "info": {
-        "name": "Delta Kernel",
-        "tagline": "Custom android kernel by P1N2O",
-        "author": "Manuel Pinto",
-        "author_aka": "P1N2O",
-        "source": "https://github.com/P1N2O/android_kernel_xiaomi_sdm845",
-        "support": "https://t.me/DeltaKernelChat",
-        "donate": "https://paypal.me/pinto165",
-        "slug": "delta"
-    }
+ {
+  "kernel": {
+    "name": "Delta Kernel (beryllium)",
+    "version": "v0.4",
+    "link": "https://delta.manuelpinto.in/dl/v0.4/Delta-Kernel-v0.4_latest_60Hz-beryllium.zip",
+    "changelog_url": "https://raw.githubusercontent.com/P1N2O/android_kernel_xiaomi_sdm845/10/download/changelog.txt",
+    "date": "2020-02-16",
+    "sha1": "96fa447cf833a91caaccb38e51bbe14721cc1162"
+  },
+  "support": {
+    "link": "https://t.me/DeltaKernelChat"
+  }
 }
