@@ -1,11 +1,15 @@
-- Upstream to latest Linux v4.9.211
-- GPU UC to 180MHz & OC to 820MHz
-  Available GPU Freq.: [180], 257, 350, 425, 520, 600, 675, 710, [820]
-- Use touch drivers from 9.1.24 Beta for NVT
-- Added fsync on/off support
-- Camera fix (for Q-Blobs)
-- Added FKM Download Support
-- Enabled NAP power saving state for Adreno 630 GPU
-- Added support for DTS Ultra:X
-- Added TCP Cong. Alg.: [westwood], bic, vegas, yeah, illinois
-- Added Wireguard support
+- Upstream to Linux Stable v4.9.213
+- Add FKM support (downloads + profiles)
+- Add Boeffla Wake Lock Blocker
+- Add CRC check toggle
+- Add Adreno GPU Boost
+- Add sdFAT/exFAT & F2FS support
+- Add maple, fiops, sio & zen
+- Add scheduler from Pixel 3
+- CPU frequency lockdown fix
+- Picked up some Pixel changes
+- NVT Touch Driver improvements
+- Tuned to enter deepsleep faster
+- Other minor optimizations and tweaks
+
+- ⚠ Dirty Flash your ROM zip (if coming from other kernel)
